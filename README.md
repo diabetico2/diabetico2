@@ -2,10 +2,7 @@
 
 [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white/)](https://linktr.ee/allanjosepereira) [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/allan-josé-38600a352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:allanjosepereira18@gmail.com) [ ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=45999650082)
 
-![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=diabetico2&show_icons=true&theme=tokyonight)
-
-
-![Allan GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diabetico2&theme=tokyonight)
+![Allan GitHub stats](https://github-readme-stats.vercel.app/api?username=diabetico2&show_icons=true&theme=tokyonight)      ![Allan GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=diabetico2&theme=tokyonight)
 
 ### tecnologias que eu uso
 
