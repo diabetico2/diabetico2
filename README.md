@@ -32,4 +32,4 @@ https://dev.instructivacursos.com.br/catalogo/catalogo.php
 
 
 
-<img src="https://i.pinimg.com/736x/03/fd/f6/03fdf6b05da2cbe9b1eb8922963f266e.jpg"/>
+<img src="https://i.scdn.co/image/ab67616d0000b273504774915c5fe3abc836991c"/>
