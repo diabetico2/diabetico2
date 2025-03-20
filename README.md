@@ -18,7 +18,7 @@
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 </div><br/>
 
-Atualmente trabalhando na empresa Instructiva como programador junior, porém fazendo pequenos trabalho freelance durante o tempo livre, atualmente jogando Persona 3 Reload
+Atualmente trabalhando na empresa Instructiva como programador junior, porém fazendo pequenos trabalho freelance durante o tempo livre
 
 
 ## Ultimos trabalhos publicos feitos:
