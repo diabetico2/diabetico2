@@ -16,7 +16,8 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-Atualmente trabalhando na empresa Instructiva como programador junior, porém fazendo pequenos trabalho freelance durante o tempo livre
+Atualmente estou desempregado, procurando trabalho freelance
+Meu Perfil no 99freelas caso se interesse: https://www.99freelas.com.br/user/allan-jose
 
 
 ## Ultimos trabalhos publicos feitos:
