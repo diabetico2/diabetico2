@@ -67,27 +67,22 @@ Atualmente estou aprofundando meus conhecimentos em **JavaScript, TypeScript, Re
 
 <div align="center">
 
-## 📊 Estatísticas do GitHub
+  <h2>📊 Estatísticas do GitHub</h2>
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api?username=diabetico2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"
-  alt="Estatísticas do GitHub"
-/>
 
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=diabetico2&layout=compact&langs_count=8&theme=dracula&hide_border=true"
-  alt="Linguagens mais utilizadas"
-/>
+  <img
+    width="48%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=diabetico2&theme=dracula"
+    alt="Linguagens mais utilizadas"
+  />
 
-<br>
+  <br><br>
 
-<img
-  width="95%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diabetico2&theme=dracula"
-  alt="Resumo das contribuições"
-/>
+  <img
+    width="97%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diabetico2&theme=dracula"
+    alt="Resumo das contribuições"
+  />
 
 </div>
 
@@ -132,6 +127,6 @@ Atualmente estou aprofundando meus conhecimentos em **JavaScript, TypeScript, Re
 
 <br><br>
 
-<i>“A evolução começa quando transformamos curiosidade em prática.”</i>
+<i>“For me giving up is way harder than trying.” — Ye</i>
 
 </div>
